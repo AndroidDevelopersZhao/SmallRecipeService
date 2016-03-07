@@ -1,0 +1,4 @@
+copy：userauthsuccessid、userid、folder至C盘根目录下
+copy：userlogo、folder至Tomcat/webapps<项目名>/下
+
+creatDB:smallrecipedb(name)、import registioninfo.sql file to MySQL

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="AA"
+  id="myeclipse.1456388820526"
+  context-root="/SmallRecipeService"
+  j2ee-spec="5.0"
+  archive="AA.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
